@@ -1,7 +1,6 @@
 # delivery
 
-A new Flutter project.
-
+Delivery app using firebase 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
